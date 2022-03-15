@@ -9,7 +9,7 @@ Este repositório é um **índice**, um agregador de todos os meus projetos,test
 - [**Portfólio**](https://github.com/dev-araujo/projetos/tree/main/Vanilla/portfolio/vanilla)
 - [**Survey Form FreeCodeCamp**](https://github.com/dev-araujo/FreeCodeCamp/tree/main/Responsive-Web-Design/survey-form)
 - [**Tribute Page - Hermann Hesse, FreeCodeCamp**](https://github.com/dev-araujo/FreeCodeCamp/tree/main/Responsive-Web-Design/tribute-page)
-- [**Personal Portfolio Webpage**](https://github.com/dev-araujo/FreeCodeCamp/tree/main/Responsive-Web-Design/personal-portfolio-webpage)
+- [**Personal Portfolio Webpage - FreeCodeCamp**](https://github.com/dev-araujo/FreeCodeCamp/tree/main/Responsive-Web-Design/personal-portfolio-webpage)
 
 </details>
 
