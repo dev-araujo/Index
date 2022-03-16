@@ -18,7 +18,6 @@ Este repositório é um **índice**, um agregador de todos os meus projetos,test
 - [**Pokedex com RxJS**](https://github.com/dev-araujo/projetos/tree/main/React/pokedex-react--rxjs)
 - [**Chuck jokes app**](https://github.com/dev-araujo/projetos/tree/main/React/chuck-jokes)
 - [**Astromach app**](https://github.com/dev-araujo/projetos/tree/main/React/astromach)
-
 - [**Ws-work--CRUD**](https://github.com/dev-araujo/desafios/tree/main/React/ws-work)
 - [**Brlogic--Podcast**](https://github.com/dev-araujo/desafios/tree/main/React/brlogic)
 
@@ -29,7 +28,7 @@ Este repositório é um **índice**, um agregador de todos os meus projetos,test
 - [**Pokedex**](https://github.com/dev-araujo/projetos/tree/main/Angular/pokedex-angular)
 - [**Rh Software--Tarot**](https://github.com/dev-araujo/tarot)
 
-  </details>
+</details>
 
   ---
 
