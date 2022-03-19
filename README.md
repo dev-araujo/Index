@@ -6,6 +6,7 @@ Este repositório é um **índice**, um agregador de todos os meus projetos,test
 
 **<details><summary>Projetos Vanilla🍦</summary>**
 
+- [**Technical Documentation Page, FreeCodeCamp**](https://github.com/dev-araujo/FreeCodeCamp/tree/main/Responsive-Web-Design/technical-documentation-page)
 - [**Portfólio**](https://github.com/dev-araujo/projetos/tree/main/Vanilla/portfolio/vanilla)
 - [**Survey Form FreeCodeCamp**](https://github.com/dev-araujo/FreeCodeCamp/tree/main/Responsive-Web-Design/survey-form)
 - [**Tribute Page - Hermann Hesse, FreeCodeCamp**](https://github.com/dev-araujo/FreeCodeCamp/tree/main/Responsive-Web-Design/tribute-page)
