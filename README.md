@@ -5,7 +5,8 @@
 Este repositório é um **índice**, um agregador de todos os meus projetos,testes e outros códigos mais.
 
 **<details><summary>Projetos Vanilla🍦</summary>**
-
+  
+- [**Product Landing Page, FreeCodeCamp**](https://github.com/dev-araujo/FreeCodeCamp/tree/main/Responsive-Web-Design/product-landing-page)
 - [**Technical Documentation Page, FreeCodeCamp**](https://github.com/dev-araujo/FreeCodeCamp/tree/main/Responsive-Web-Design/technical-documentation-page)
 - [**Portfólio**](https://github.com/dev-araujo/projetos/tree/main/Vanilla/portfolio/vanilla)
 - [**Survey Form FreeCodeCamp**](https://github.com/dev-araujo/FreeCodeCamp/tree/main/Responsive-Web-Design/survey-form)
