@@ -16,7 +16,8 @@ Este repositório é um **índice**, um agregador de todos os meus projetos,test
 </details>
 
 **<details><summary>Projetos React ⚛️</summary>**
-
+  
+- [**Jogo da Velha**](https://github.com/dev-araujo/projetos/tree/main/React/jogo-da-velha)
 - [**Random Quotes Machine, FreeCodeCamp**](https://github.com/dev-araujo/FreeCodeCamp/tree/main/Frontend-Development-Libraries/random-quote-machine)
 - [**Landing page Restaurant**](https://github.com/dev-araujo/projetos/tree/main/React/restaurant)
 - [**Pokedex com RxJS**](https://github.com/dev-araujo/projetos/tree/main/React/pokedex-react--rxjs)
